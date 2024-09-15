@@ -539,7 +539,7 @@
     "cname": [],
     "discussion": "[Issue #40](https://github.com/EdOverflow/can-i-take-over-xyz/issues/40)",
     "documentation": "",
-    "fingerprint": "Page not found",
+    "fingerprint": "<title>Page not found</title>",
     "http_status": null,
     "nxdomain": false,
     "service": "Netlify",
