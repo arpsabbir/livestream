@@ -1,13 +1,13 @@
 [
   {
     "cicd_pass": false,
-    "cname": ["azurefd.net"],
-    "discussion": "[Issue #41](https://github.com/EdOverflow/can-i-take-over-xyz/issues/41)",
-    "documentation": "",
+    "cname": [],
+    "discussion": "[Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "fingerprint": "404 Not Found",
-    "http_status": 404,
+    "http_status": null,
     "nxdomain": false,
-    "service": "Microsoft Azure",
+    "service": "Cargo Collective",
     "status": "Vulnerable",
     "vulnerable": true
   }
