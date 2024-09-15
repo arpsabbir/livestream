@@ -2,7 +2,7 @@
 {
     "cicd_pass": true,
     "cname": [
-	  "trafficmanager.net",
+      "trafficmanager.net",
       "cloudapp.net",
       "cloudapp.azure.com",
       "azurewebsites.net",
