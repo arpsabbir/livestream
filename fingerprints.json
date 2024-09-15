@@ -6,7 +6,7 @@
       "documentation": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
       "fingerprint": "404 Not Found",
       "http_status": true,
-      "nxdomain": true,
+      "nxdomain": false,
       "service": "Microsoft Azure",
       "status": "Vulnerable",
       "vulnerable": true
