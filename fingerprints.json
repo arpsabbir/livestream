@@ -2,6 +2,9 @@
 {
     "cicd_pass": true,
     "cname": [
+     "trafficmanager.net",
+     "t-0009.t-msedge.net",
+     "t-msedge.net",
       "cloudapp.net",
       "cloudapp.azure.com",
       "azurewebsites.net",
@@ -22,9 +25,9 @@
     ],
     "discussion": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
     "documentation": "",
-    "fingerprint": "NXDOMAIN",
+    "fingerprint": "404",
     "http_status": null,
-    "nxdomain": true,
+    "nxdomain": false,
     "service": "Microsoft Azure",
     "status": "Vulnerable",
     "vulnerable": true
