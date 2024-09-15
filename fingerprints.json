@@ -539,6 +539,18 @@
     "cname": [],
     "discussion": "[Issue #40](https://github.com/EdOverflow/can-i-take-over-xyz/issues/40)",
     "documentation": "",
+    "fingerprint": "Page not found",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "Netlify",
+    "status": "Edge case",
+    "vulnerable": false
+  },
+    {
+    "cicd_pass": false,
+    "cname": [],
+    "discussion": "[Issue #40](https://github.com/EdOverflow/can-i-take-over-xyz/issues/40)",
+    "documentation": "",
     "fingerprint": "Not Found - Request ID:",
     "http_status": null,
     "nxdomain": false,
