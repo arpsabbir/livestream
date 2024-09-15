@@ -506,6 +506,7 @@
   {
     "cicd_pass": true,
     "cname": [
+      "azurefd.net",
       "cloudapp.net",
       "cloudapp.azure.com",
       "azurewebsites.net",
