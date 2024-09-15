@@ -534,8 +534,8 @@
     "vulnerable": true
   },
   {
-      "cicd_pass": true,
-      "cname": ["azurefd.net"],
+      "cicd_pass": false,
+      "cname": [],
       "discussion": "[[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
       "documentation": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
       "fingerprint": "404 Not Found",
