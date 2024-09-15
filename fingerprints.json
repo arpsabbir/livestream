@@ -144,30 +144,6 @@
     "vulnerable": false
   },
   {
-    "cicd_pass": false,
-    "cname": [],
-    "discussion": "[Issue #9](https://github.com/EdOverflow/can-i-take-over-xyz/issues/9)",
-    "documentation": "",
-    "fingerprint": "Please try again or try Desk.com free for 14 days.",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "Desk",
-    "status": "Not vulnerable",
-    "vulnerable": false
-  },
-  {
-    "cicd_pass": false,
-    "cname": [],
-    "discussion": "",
-    "documentation": "",
-    "fingerprint": "Domain uses DO name servers with no records in DO.",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "Digital Ocean",
-    "status": "Vulnerable",
-    "vulnerable": true
-  },
-  {
     "cicd_pass": true,
     "cname": ["trydiscourse.com"],
     "discussion": "[Issue #49](https://github.com/EdOverflow/can-i-take-over-xyz/issues/49)",
