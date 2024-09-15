@@ -1,14 +1,14 @@
 [
   {
-      "cicd_pass": false,
-      "cname": [],
-      "discussion": "[[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
-      "documentation": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
-      "fingerprint": "404 Not Found",
-      "http_status": true,
-      "nxdomain": false,
-      "service": "Microsoft Azure",
-      "status": "Vulnerable",
-      "vulnerable": true
-    }
+    "cicd_pass": false,
+    "cname": ["azurefd.net"],
+    "discussion": "[Issue #41](https://github.com/EdOverflow/can-i-take-over-xyz/issues/41)",
+    "documentation": "",
+    "fingerprint": "404 Not Found",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "Microsoft Azure",
+    "status": "Vulnerable",
+    "vulnerable": true
+  },
 ]
