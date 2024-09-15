@@ -48,18 +48,6 @@
     "vulnerable": false
   },
   {
-    "cicd_pass": false,
-    "cname": ["agilecrm.com"],
-    "discussion": "[Issue #145](https://github.com/EdOverflow/can-i-take-over-xyz/issues/145)",
-    "documentation": "",
-    "fingerprint": "Sorry, this page is no longer available.",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "Agile CRM",
-    "status": "Vulnerable",
-    "vulnerable": true
-  },
-  {
     "cicd_pass": true,
     "cname": ["airee.ru"],
     "discussion": "[Issue #104](https://github.com/EdOverflow/can-i-take-over-xyz/issues/104)",
