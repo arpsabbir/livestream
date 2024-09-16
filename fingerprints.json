@@ -2,6 +2,8 @@
 {
     "cicd_pass": true,
     "cname": [
+      "azure-dns.com",
+      "microsoft.com",
       "trafficmanager.net",
       "cloudapp.net",
       "cloudapp.azure.com",
