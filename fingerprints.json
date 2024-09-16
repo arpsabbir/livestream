@@ -1,35 +1,33 @@
 [
-{
-    "cicd_pass": true,
-    "cname": [
-      "azure-dns.com",
-      "microsoft.com",
-      "trafficmanager.net",
-      "cloudapp.net",
-      "cloudapp.azure.com",
-      "azurewebsites.net",
-      "blob.core.windows.net",
-      "cloudapp.azure.com",
-      "azure-api.net",
-      "azurehdinsight.net",
-      "azureedge.net",
-      "azurecontainer.io",
-      "database.windows.net",
-      "azuredatalakestore.net",
-      "search.windows.net",
-      "azurecr.io",
-      "redis.cache.windows.net",
-      "azurehdinsight.net",
-      "servicebus.windows.net",
-      "visualstudio.com"
-    ],
-    "discussion": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
-    "documentation": "",
-    "fingerprint": "NXDOMAIN",
-    "http_status": null,
-    "nxdomain": true,
-    "service": "Microsoft Azure",
-    "status": "Vulnerable",
-    "vulnerable": true
-  }
+    {
+        "cicd_pass": true,
+        "cname": [
+            "azure-dns.com",
+            "microsoft.com",
+            "trafficmanager.net",
+            "cloudapp.net",
+            "cloudapp.azure.com",
+            "azurewebsites.net",
+            "blob.core.windows.net",
+            "azure-api.net",
+            "azurehdinsight.net",
+            "azureedge.net",
+            "azurecontainer.io",
+            "database.windows.net",
+            "azuredatalakestore.net",
+            "search.windows.net",
+            "azurecr.io",
+            "redis.cache.windows.net",
+            "servicebus.windows.net",
+            "visualstudio.com"
+        ],
+        "discussion": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
+        "documentation": "",
+        "fingerprint": "NXDOMAIN",
+        "http_status": null,
+        "nxdomain": true,
+        "service": "Microsoft Azure",
+        "status": "Vulnerable",
+        "vulnerable": true
+    }
 ]
